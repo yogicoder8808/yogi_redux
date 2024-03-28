@@ -1,0 +1,2 @@
+For Redux assignment, I have used Fetures folder for storage and Login.js and Profile.js files for function and default 
+App.js and index.js diles for execution. Hence entire Src file was submitted in Zip format
